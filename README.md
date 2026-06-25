@@ -54,9 +54,7 @@ Based on the diagnostic findings, I propose the following operational transforma
 3.  **Dynamic Repositioning Incentives:** Implement predictive algorithms to offer financial bonuses to drivers who relocate to chronic undersupply zones (e.g., JFK Airport) prior to peak demand surges.
 
 ## 📂 Repository Structure
-*   `/notebooks`: Contains the Databricks exported `.ipynb` and `.py` source code utilizing PySpark and Spark SQL.
-*   `/visualizations`: High-resolution charts and graphs generated via Seaborn/Matplotlib.
-*   `/reports`: The comprehensive business strategy and diagnostic analytics report (PDF).
+*   `/IPython Notebooks`: Contains the Databricks exported `.ipynb` and `.py` source code utilizing PySpark and Spark SQL.
 
 ## 🚀 How to Run
 1.  Import the `.ipynb` notebook from the `/notebooks` folder into your Databricks workspace.
